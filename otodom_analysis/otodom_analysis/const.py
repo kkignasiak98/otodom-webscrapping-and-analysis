@@ -1,0 +1,15 @@
+patterns = [
+    "Powierzchnia:",
+    "Liczba pokoi:",
+    "Rynek:",
+    "Rodzaj zabudowy:",
+    "Piętro:",
+    "Liczba pięter:",
+    "Okna:",
+    "Ogrzewanie:",
+    "Rok budowy:",
+    "Stan wykończenia:",
+    "Forma własności:",
+    "Czynsz:",
+    "Cena",
+]
